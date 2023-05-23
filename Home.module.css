@@ -1,0 +1,9 @@
+.bg
+{
+    background-image:url("D:\MyLaptopShop\laptopshopgui\src\LaptopShop.jpg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    min-height:50vh;
+    padding-top: 4rem;
+}
